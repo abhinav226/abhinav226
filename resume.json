@@ -1,33 +1,33 @@
 {
 	"basics": {
-		"name": "---Enter Your Name---",
+		"name": "Abhinav Suman",
 		"label": "Student",
 		"picture": "---Enter Image URL----",
-		"email": "---Enter Email ID---",
-		"phone": "---Enter Mobile Number---",
-		"website": "---Enter Link of website(if any) ---",
-		"summary": "---Tell Something about yourself ---",
+		"email": "2020kucp1052@iiitkota.ac.in",
+		"phone": "+917357940303",
+		
+		"summary": "I am a student of Indian Institute of Information and Technology, Kota, persuing my B.tch in Computer Science & Engineering.",
 		"location": {
-			"address": "---",
-			"postalCode": "---",
-			"city": "---",
+			"address": "Bada Bazar Khanpur",
+			"postalCode": "326038",
+			"city": "Jhalawar",
 			"countryCode": "India",
-			"region": "---State Name---"
+			"region": "Rajasthan"
 		},
 		"profiles": [{
 				"network": "Twitter",
-				"username": "handle",
-				"url": "https://www.twitter.com/<handle>"
+				"username": "@AbhinavSuman14",
+				"url": "https://www.twitter.com/<@AbhinavSuman14>"
 			},
 			{
 				"network": "Github",
-				"username": "handle",
-				"url": "https://www.github.com/<handle>/"
+				"username": "abhinav226",
+				"url": "https://www.github.com/<abhinav226>/"
 			},
 			{
 				"network": "linkedin",
-				"username": "username",
-				"url": "https://www.linkedin.com/in/<username>/"
+				"username": "Abhinav Suman",
+				"url": "https://www.linkedin.com/in/abhinav-suman-8a5188201"
 			},
 			{
 				"network": "Instagram",
